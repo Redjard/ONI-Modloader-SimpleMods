@@ -3,13 +3,28 @@ README
 Settings here:
 Steam\SteamApps\common\OxygenNotIncluded\Mods\LessIrrigation\Config\LessIrrigationState.json
 
+
+Help me complete the list!
+
 The settings work with ingame IDs. These differ from the displayed name. Here some examples:
 Plant Name          ID
+Thimble Reed        BasicFabricPlant
+Mealwood            BasicSingleHarvestPlant
 Nosh Sprout         BeanPlant
+Jumping Joya        CactusPlant
+Wheezewort          ColdBreather
 Sleet Wheat         ColdWheat
+Sporechild          EvilFlower
 Arbor Tree          ForestTree
+Gas Grass           GasGrass
+Mirth Leaf          LeafyPlant
+Dusk Cap            MushroomPlant
+Oxyfern             Oxyfern
 Bristle Blossom     PrickleFlower
-Help me complete the list!
+Bluff Briar         PrickleGrass
+Dasha Saltvine      SaltPlant
+Pincha Pepper       SpiceVine
+Balm Lily           SwampLily
 
 Fruit Name          ID
 Bristle Blossom     PrickleFruit
